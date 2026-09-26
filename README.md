@@ -1,5 +1,5 @@
 how to use:
-powershell(run as administrator)
-` & rdp record.ps1`
-and then it'll open the browser or let you choose one to open the generated html file
+1. powershell(run as administrator)
+2. run `& rdp record.ps1`
+3. it'll open the browser or let you choose one to open the generated html file
 so simple
